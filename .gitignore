@@ -1,8 +1,0 @@
-
-omp_exp_lock_4.c
-omp_exp_do_4.c
-omp_exp_atomic_4.c
-omp_exp_critical_4.c
-omp_exp_do_4.c
-omp_exp_lock_4.c
-omp_exp_spmd_4.c
